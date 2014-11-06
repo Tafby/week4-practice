@@ -33,7 +33,7 @@ article {text-align: center;
 #side-nav {width: 15%; 
   float: left;
   font-size: 0.8em;
-text-align: center;}
+  text-align: center;}
 
 #side-nav li {padding: 5px;}
 
@@ -41,7 +41,8 @@ text-align: center;}
 footer { text-align: center;
   padding: 3rem;}
 
-footer img {width: 2rem; height: auto;}
+footer img {width: 2rem; 
+  height: auto;}
 
 
 
